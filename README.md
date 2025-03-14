@@ -1,4 +1,4 @@
-# NanoHJetAnalyser
+# HToWWAnalyzer
 ## Setting up the framework
 
 You can install the framework with all its dependencies via:
